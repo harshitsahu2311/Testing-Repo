@@ -1,5 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "AWS S3 Bucket Stack",
     "Resources": {
         "S3Bucket": {
             "Type": "AWS::S3::Bucket"
